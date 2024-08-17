@@ -14,3 +14,5 @@ Purpose
     Understand which products are performing best.
     Analyze customer behavior across different store locations and weekdays.
     Optimize product offerings and pricing strategies.
+
+![Coffee Shop Sales Dashboard](https://github.com/user-attachments/assets/61298112-f23b-486d-bae6-8948344346f6)
